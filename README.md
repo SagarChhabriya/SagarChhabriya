@@ -5,6 +5,8 @@
 - 📫 How to reach me ...
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ___
+- ![image](https://github.com/SagarChhabriya/SagarChhabriya/assets/129516589/c4caaf5e-8b1c-45ab-aae0-e9552260f3d4)
+
 
 <!---
 SagarChhabriya/SagarChhabriya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
