@@ -7,6 +7,7 @@
 <!-- - ⚡ Fun fact: ___ -->
 
 - I have Passed GitHub Foundations Exam.
+
 ![image](https://github.com/SagarChhabriya/SagarChhabriya/assets/129516589/c4caaf5e-8b1c-45ab-aae0-e9552260f3d4)
 
 
