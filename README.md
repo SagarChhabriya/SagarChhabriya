@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Machine Learning.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-- 😄 Pronouns: He/Him
+<--! -😄 Pronouns: He/Him -->
 - ⚡ Fun fact: ___
 - ![image](https://github.com/SagarChhabriya/SagarChhabriya/assets/129516589/c4caaf5e-8b1c-45ab-aae0-e9552260f3d4)
 
