@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ___
+
 
 <!---
 SagarChhabriya/SagarChhabriya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
