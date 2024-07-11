@@ -2,7 +2,7 @@
 - 👀 I’m interested in Machine Learning, AI, Data Science, Data Structures and Python.
 - 🌱 I’m currently learning Machine Learning.
 <!-- - 💞️ I’m looking to collaborate on ...
-<!-- - 📫 How to reach me ... -->
+<!-- - 📫 How to reach me ... -->asdfawf
 <!-- -😄 Pronouns: He/Him -->
 <!-- - ⚡ Fun fact: ___ -->
 
