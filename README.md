@@ -55,24 +55,26 @@
 
 <br></br>
 
+<!---
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SagarChhabriya&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=SagarChhabriya&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 <br></br>
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SagarChhabriya&theme=dark&hide_border=false)<br/>
 <br></br>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SagarChhabriya&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SagarChhabriya&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 <br></br>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=SagarChhabriya&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=SagarChhabriya&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 <br></br>
 
+<!---
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=SagarChhabriya&limit=5&theme=dark&combine_all_yearly_contributions=true)
 <br></br>
-
+--->
 # I have Passed GitHub Foundations Exam!
 
 [Credly Certified](https://www.credly.com/badges/ad76b653-1048-4090-bcf6-605bf97148ad/print)<br><br>
