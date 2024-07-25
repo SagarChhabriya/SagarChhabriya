@@ -11,10 +11,10 @@
 <!-- -😄 Pronouns: He/Him -->
 <!-- - ⚡ Fun fact: ___ -->
 
-
 <br></br>
 
 ## 🌐 Socials:
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sagar-chhabriya/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@sagarchhabriya33)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://web.facebook.com/sagar.chhabriya.71)
@@ -25,53 +25,48 @@
 
 <br></br>
 
-
 ### Languages:
-| Python3 | C | JS | Solidity | GO |
-|----------|----------|----------|-----|-----|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C"  alt="C" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" title="Solidity" alt="Solidity" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Solidity" alt="Solidity" width="55" height="55"/>| 
+
+| Python3                                                                                    | JS                                                                                                    |
+| ------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------- |
+| <img src="icons\python-original.svg" title="Python"  alt="Python" width="55" height="55"/> | <img src="icons\javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> |
 
 ### My tools for Data Manipulation & Visualisation:
 
-| Conda | Jupyter | Spark | MySQL | Postgres | SQLite | Plotly | Matpltlib |
-|----------|----------|----------|----------|----------|----------|----------|----------|
-|<img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda" alt="Conda" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupiter" alt="Jupiter" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/apachespark/apachespark-original-wordmark.svg" title="Spark" alt="Spark" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="pg" alt="pg" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite" alt="SQLite" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/plotly/plotly-original.svg" title="plotly" alt="pltly" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="plotly" alt="pltly" width="55" height="55"/> |
+| Conda                                                                                                 | Jupyter                                                                                               | MySQL                                                                                           | Postgres                                                                              | SQLite                                                                                             | Plotly                                                                                   | Matpltlib                                                                                    |
+| ----------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
+| <img src="icons/anaconda-original-wordmark.svg" title="Anaconda" alt="Conda" width="55" height="55"/> | <img src="icons/jupyter-original-wordmark.svg" title="Jupiter" alt="Jupiter" width="55" height="55"/> | <img src="icons/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="55" height="55"/> | <img src="icons/postgresql-original.svg" title="pg" alt="pg" width="55" height="55"/> | <img src="icons/sqlite-original-wordmark.svg" title="SQLite" alt="SQLite" width="55" height="55"/> | <img src="icons/plotly-original.svg" title="plotly" alt="pltly" width="55" height="55"/> | <img src="icons/matplotlib-original.svg" title="plotly" alt="pltly" width="55" height="55"/> |
 
-### Best frameworks and main libraries for Python3:
+### My frameworks and main libraries for Python3:
 
-| Pytorch | Selenium | Numpy | Pandas | Sklearn | OpenCV |
-|----------|----------|----------|----------|----------|----------|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="Pytorch"  alt="Pytorch" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium"  alt="Selenium" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="sklearn" alt="sklearn" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" title="mpl" alt="mpl" width="55" height="55"/>|
-
-
-
+| Pytorch                                                                                       | Selenium                                                                                         | Numpy                                                                                           | Pandas                                                                                    | Sklearn                                                                                          | OpenCV                                                                              |
+| --------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------- |
+| <img src="icons/pytorch-original.svg" title="Pytorch"  alt="Pytorch" width="55" height="55"/> | <img src="icons/selenium-original.svg" title="Selenium"  alt="Selenium" width="55" height="55"/> | <img src="icons/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="55" height="55"/> | <img src="icons/pandas-original.svg" title="Pandas" alt="Pandas" width="55" height="55"/> | <img src="icons/scikitlearn-original.svg" title="sklearn" alt="sklearn" width="55" height="55"/> | <img src="icons/opencv-original.svg" title="mpl" alt="mpl" width="55" height="55"/> |
 
 <br></br>
 
 ### Environments, Testing, Other:
 
-| nodejs | Git | Docker | Pytest | Swagger | Postman | VBox | HardHat |
-|----------|----------|----------|----------|----------|----------|----------|----------|
-|<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="nodejs" alt="NodeJS" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original-wordmark.svg" title="pytest" alt="pytest" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/swagger/swagger-original-wordmark.svg" title="Swagger" alt="Swagger" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original-wordmark.svg" title="Postman" alt="Postman" width="55" height="55"/>|<img src="https://banner2.cleanpng.com/20190501/xvt/kisspng-computer-icons-virtualbox-portable-network-graphic-virtualbox-icon-of-line-style-available-in-svg-5cca247f73f9e3.6112721115567514874751.jpg" title="Postman" alt="Postman" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/hardhat/hardhat-original.svg" title="Swagger" alt="Swagger" width="55" height="55"/>|
-
-
+| nodejs                                                                                             | Git                                                                                       | Docker                                                                                             | Pytest                                                                                             | Postman                                                                                               |
+| -------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
+| <img src="icons/nodejs-original-wordmark.svg" title="nodejs" alt="NodeJS" width="55" height="55"/> | <img src="icons/git-original-wordmark.svg" title="Git" alt="Git" width="55" height="55"/> | <img src="icons/docker-original-wordmark.svg" title="Docker" alt="Docker" width="55" height="55"/> | <img src="icons/pytest-original-wordmark.svg" title="pytest" alt="pytest" width="55" height="55"/> | <img src="icons/postman-original-wordmark.svg" title="Postman" alt="Postman" width="55" height="55"/> |
 
 ### OS:
 
-| Linux | Ubuntu | Kali | Windows|
-|----------|----------|----------|----------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="55" height="55"/> | <img src="https://github.com/canaleal/devicon/blob/new-icon-kali-linux/icons/kalilinux/kalilinux-original-wordmark.svg" title="Linux" alt="Linux" width="55" height="55"/> |
-
+| Linux                                                                                  | Ubuntu                                                                                    | Kali                                                                                                | Windows                                                                                                                                            |
+| -------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <img src="icons/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/> | <img src="icons/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="55" height="55"/> | <img src="icons/kalilinux-original-wordmark.svg" title="Linux" alt="Linux" width="55" height="55"/> | <img src="icons/windows11-original-wordmark.svg" title="Windows" alt="Windowsc:\Users\Mr Sagar Kumar\Downloads\snake.svg" width="55" height="55"/> |
 
 # 💻 Tech Stack:
+
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -90,7 +85,6 @@
 ![OpenCV](https://img.shields.io/badge/OpenCV-%23FF6F00.svg?style=for-the-badge&logo=opencv&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-%2307405E.svg?style=for-the-badge&logoColor=white)
 
-
 <!---
 ### It's not technology, but I use it. The section will be changed soon.:
   <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="Latex" alt="Latex" width="40" width="30" height="30"/>
@@ -101,7 +95,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="vsc" alt="vsc" width="30" height="30"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="PC" alt="PC" width="30" height="30"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/clion/clion-original.svg" title="cl" alt="CL" width="30" height="30"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/datagrip/datagrip-original.svg" title="dg" alt="dg" width="30" height="30"/>  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/datagrip/datagrip-original.svg" title="dg" alt="dg" width="30" height="30"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original-wordmark.svg" title="GitLab" alt="GitLab" width="30" height="30"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/confluence/confluence-original-wordmark.svg" title="Confluence" alt="Confluence" width="30" height="30"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Jira" alt="Jira" width="30" height="30"/>
@@ -129,11 +123,9 @@
 <br></br>
 --->
 
-
 <p align="center">
   <img width="800" height="220" src="https://streak-stats.demolab.com?user=SagarChhabriya&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
 </p>
-
 
 <p align="center">
   <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=SagarChhabriya&show_icons=true&theme=vision-friendly-dark">
@@ -145,15 +137,15 @@
 </div>
 
 <p align="center">
- <img width="1000" src="github-snake.svg" alt="snake"/>
+ <img width="1000" src="icons/github-snake.svg" alt="snake"/>
 </p>
 
 # I have Passed GitHub Foundations Exam!
 
-[Credly Certified](https://www.credly.com/badges/ad76b653-1048-4090-bcf6-605bf97148ad/print)<br><br>
+[Credly Certified](https://www.credly.com/badges/ad76b653-1048-4090-bcf6-605bf97148ad/print)
 
-![image](https://github.com/SagarChhabriya/SagarChhabriya/assets/129516589/c4caaf5e-8b1c-45ab-aae0-e9552260f3d4)
-
+<br><br>
+![alt text](icons/image.png)
 
 <!---
 SagarChhabriya/SagarChhabriya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
