@@ -6,7 +6,18 @@
 - 👋 Hi, I’m @SagarChhabriya
 - 👀 I’m interested in Machine Learning, AI, Data Science, Data Structures and Python.
 - 🌱 I’m currently learning Machine Learning.
--    I have Passed GitHub Foundations Exam! [Credly Certified](https://www.credly.com/badges/ad76b653-1048-4090-bcf6-605bf97148ad/print)
+
+# 🚀 **Achievement Unlocked: GitHub Foundations Exam Passed!** 🎓
+
+I'm thrilled to announce that I have successfully passed the [**GitHub Foundations Exam**!](https://www.credly.com/badges/ad76b653-1048-4090-bcf6-605bf97148ad/print) 🏆 This milestone demonstrates my proficiency with essential GitHub workflows and best practices.
+
+## What I’ve Achieved:
+
+- **Mastered GitHub Fundamentals**
+- **Enhanced Collaboration Skills**
+- **Improved Code Management Practices**
+
+Feel free to check out my projects and repositories to see the practical applications of these skills!
 
 <!-- - 💞️ I’m looking to collaborate on ...
 <!-- - 📫 How to reach me ... -->
