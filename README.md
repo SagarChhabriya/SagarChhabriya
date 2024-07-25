@@ -6,6 +6,8 @@
 - 👋 Hi, I’m @SagarChhabriya
 - 👀 I’m interested in Machine Learning, AI, Data Science, Data Structures and Python.
 - 🌱 I’m currently learning Machine Learning.
+-    I have Passed GitHub Foundations Exam! [Credly Certified](https://www.credly.com/badges/ad76b653-1048-4090-bcf6-605bf97148ad/print)
+
 <!-- - 💞️ I’m looking to collaborate on ...
 <!-- - 📫 How to reach me ... -->
 <!-- -😄 Pronouns: He/Him -->
@@ -153,12 +155,7 @@
  <img width="1000" src="icons/github-snake.svg" alt="snake"/>
 </p>
 
-# I have Passed GitHub Foundations Exam!
-
-[Credly Certified](https://www.credly.com/badges/ad76b653-1048-4090-bcf6-605bf97148ad/print)
-
 <br><br>
-![alt text](icons/image.png)
 
 <!---
 SagarChhabriya/SagarChhabriya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
