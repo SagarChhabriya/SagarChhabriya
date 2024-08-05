@@ -1,6 +1,8 @@
 ![image](https://github.com/user-attachments/assets/2af29d74-629a-45c2-9f8b-bb3551138679)
 
 <h1 align="center">Hello 👋 Myself Sagar Chhabriya<h1/>
+
+   
   
 # ✨ About Me: 
 - 👋 Hi, I’m @SagarChhabriya
@@ -148,6 +150,16 @@ Feel free to check out my projects and repositories to see the practical applica
 ![](https://github-contributor-stats.vercel.app/api?username=SagarChhabriya&limit=5&theme=dark&combine_all_yearly_contributions=true)
 <br></br>
 --->
+```mermaid
+graph TD;
+    machine-learning-->Data;
+    machine-learning-->Algorithms;
+    machine-learning-->Statistical-Models;
+    machine-learning-->Feature-Engineering;
+    machine-learning-->Evaluation-Metrics;
+    machine-learning-->Deployment;
+```
+
 
 <p align="center">
   <img width="800" height="220" src="https://streak-stats.demolab.com?user=SagarChhabriya&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
@@ -157,10 +169,27 @@ Feel free to check out my projects and repositories to see the practical applica
   <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=SagarChhabriya&show_icons=true&theme=vision-friendly-dark">
   <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SagarChhabriya&size_weight=0.5&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
 </p>
- 
+
+#### Thanks for visiting :heart:
+
+<p align="center"> 
+<!-- <img src="https://profile-counter.glitch.me/SagarChhabriya/count.svg">  
+
+<!-- counting of visitors to this page in this section started from Aug 5, 2024 -->
+
+<a href="https://info.flagcounter.com/fCIb" target="_blank">
+  <img src="https://s11.flagcounter.com/count2/fCIb/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" />
+</a>
+
+![](https://count.getloli.com/get/@SagarChhabriya.github.readme)
+</br>
+
+<!--
 <div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=SagarChhabriya&style=for-the-badge&color=orange" alt=""/>
 </div>
+-->
+
 
 <p align="center">
  <img width="1000" src="icons/github-snake.svg" alt="snake"/>
