@@ -28,6 +28,19 @@ Feel free to check out my projects and repositories to see the practical applica
 
 <br></br>
 
+
+## My Projects
+- [My Portfolio  HTML, CSS](https://sagar-chhabriya.vercel.app/)
+- [Static Blog Site HTML, CSS](https://responsive-blog-three.vercel.app/)
+- [Cafe Billing App C# ](https://www.linkedin.com/posts/sagar-chhabriya_cafebilling-softwaredevelopment-csharp-activity-7244411974040604672-dk-X?utm_source=share&utm_medium=member_desktop)
+- [Email Automater Python](https://www.linkedin.com/posts/sagar-chhabriya_python-automation-emailmarketing-activity-7187093664467247106-e7xZ?utm_source=share&utm_medium=member_desktop)
+- [Expense Tracker Python](https://www.linkedin.com/posts/sagar-chhabriya_python-codealpha-expensetracker-activity-7183180948593590273-duvj?utm_source=share&utm_medium=member_desktop)
+- [Jarvis AI Python](https://www.linkedin.com/posts/sagar-chhabriya_gratitude-thankyou-techcommunity-activity-7180446935051288577-c2Sw?utm_source=share&utm_medium=member_desktop)
+- [Currency Converter Java](https://www.linkedin.com/posts/sagar-chhabriya_currencyconverter-softwaredevelopment-codealpha-activity-7120795865622953984-EQMX?utm_source=share&utm_medium=member_desktop)
+- [Attendance Management Site Java(LinkedIn)](https://www.linkedin.com/posts/sagar-chhabriya_codealphatriumphs-activity-7124734439116447744-jdnA?utm_source=share&utm_medium=member_desktop)
+- [Word Counter Java](https://www.linkedin.com/posts/sagar-chhabriya_codealpha-javainternship-progressmade-activity-7114224780936945667-Y97o?utm_source=share&utm_medium=member_desktop)
+- [Health Keeper Java](https://www.linkedin.com/posts/sagar-chhabriya_secondsemester-javaprogramming-objectoriented-activity-7095314588090441731-GSjU?utm_source=share&utm_medium=member_desktop)
+
 ## 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sagar-chhabriya/)
