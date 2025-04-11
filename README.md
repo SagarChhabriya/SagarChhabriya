@@ -13,6 +13,10 @@
 - 😄 Pronouns: He/Him  
 - ⚡ Fun fact: I come from the decoits’ domain! 
 
+
+
+
+
 # 🚀 **Achievement Unlocked: GitHub Foundations Exam Passed!** 🎓
 
 I'm thrilled to announce that I have successfully passed the [**GitHub Foundations Exam**!](https://www.credly.com/badges/ad76b653-1048-4090-bcf6-605bf97148ad/print) 🏆 This milestone demonstrates my proficiency with essential GitHub workflows and best practices.
@@ -206,50 +210,12 @@ I'm thrilled to announce that I have successfully passed the [**GitHub Foundatio
 <!-- <img src="https://profile-counter.glitch.me/SagarChhabriya/count.svg">  
 
 <!-- counting of visitors to this page in this section started from Aug 5, 2024 -->
-1.
 <a href="https://info.flagcounter.com/fCIb" target="_blank">
   <img src="https://s11.flagcounter.com/count2/fCIb/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" />
 </a>
 
 ![](https://count.getloli.com/get/@SagarChhabriya.github.readme)
 </br>
-
-2.
-<a href="https://info.flagcounter.com/fCIb" target="_blank">
-  <img src="https://s11.flagcounter.com/count2/fCIb/bg_FFFFFF/txt_000000/border_CCCCCC/columns_3/maxflags_20/viewers_3/labels_1/pageviews_1/flags_1/percent_1/" alt="Flag Counter" border="0"/>
-</a>
-
-3.
-<!-- New global flag counter -->
-<a href="https://info.flagcounter.com/more/fC3" target="_blank">
-  <img src="https://s11.flagcounter.com/countxl/fC3/bg_FFFFFF/txt_000000/border_CCCCCC/columns_3/maxflags_12/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"/>
-</a>
-
-
-4.
-<!-- Updated FlagCounter with forced display -->
-<a href="https://info.flagcounter.com/fCIb" target="_blank">
-  <img src="https://s11.flagcounter.com/count2/fCIb/bg_FFFFFF/txt_000000/border_CCCCCC/columns_3/maxflags_20/viewers_1/labels_1/pageviews_1/flags_1/percent_1/" 
-       alt="Flag Counter" 
-       border="0"
-       style="margin: 10px 0"/>
-</a>
-
-5.
-<!-- Static flag display with hover effects -->
-<div style="display: flex; gap: 8px; flex-wrap: wrap; margin: 15px 0;">
-  <img src="https://flagcdn.com/w40/pk.png" title="Pakistan" style="height:30px;box-shadow:0 1px 3px rgba(0,0,0,0.2);border-radius:3px">
-  <img src="https://flagcdn.com/w40/us.png" title="United States" style="height:30px;box-shadow:0 1px 3px rgba(0,0,0,0.2);border-radius:3px">
-  <img src="https://flagcdn.com/w40/in.png" title="India" style="height:30px;box-shadow:0 1px 3px rgba(0,0,0,0.2);border-radius:3px">
-  <img src="https://flagcdn.com/w40/gb.png" title="United Kingdom" style="height:30px;box-shadow:0 1px 3px rgba(0,0,0,0.2);border-radius:3px">
-</div>
-
-6. 
-<a href="https://info.flagcounter.com/more/fC4" target="_blank">
-  <img src="https://s11.flagcounter.com/countxl/fC4/bg_FFFFFF/txt_000000/border_CCCCCC/columns_3/maxflags_20/viewers_1/labels_1/pageviews_1/flags_1/percent_1/" 
-       alt="New Flag Counter" 
-       style="border:none;margin-top:10px"/>
-</a>
 
 
 
