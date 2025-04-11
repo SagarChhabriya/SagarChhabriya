@@ -5,13 +5,13 @@
    
   
 # ✨ About Me: 
-- 👋 Hi, I’m @SagarChhabriya
+- 👋 Yo, I’m @SagarChhabriya
 - 👀 I’m interested in Machine Learning, AI, Data Science, Data Structures and Python.
-- 🌱 I’m currently learning Deep Learning.
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me: I myself don't know 🙅🏼‍♂️ 
-- 😄 Pronouns: He/Him 
-- ⚡ Fun fact: ___ 
+- 🌱 I’m currently learning Deep Learning and GenAI.
+- 💞️ Let’s build something epic in AI!
+- 📫 How to reach me? Good question!
+- 😄 Pronouns: He/Him  
+- ⚡ Fun fact: I come from the decoits’ domain! 
 
 # 🚀 **Achievement Unlocked: GitHub Foundations Exam Passed!** 🎓
 
