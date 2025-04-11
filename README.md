@@ -1,50 +1,67 @@
 ![image](https://github.com/user-attachments/assets/2af29d74-629a-45c2-9f8b-bb3551138679)
 
-<h1 align="center">Hello 👋 Myself Sagar Chhabriya<h1/>
+<!-- <h1 align="center">Hello 👋 Myself Sagar Chhabriya<h1/> -->
 
    
   
 # ✨ About Me: 
 - 👋 Hi, I’m @SagarChhabriya
 - 👀 I’m interested in Machine Learning, AI, Data Science, Data Structures and Python.
-- 🌱 I’m currently learning Machine Learning.
+- 🌱 I’m currently learning Deep Learning.
+- 💞️ I’m looking to collaborate on 
+- 📫 How to reach me: I myself don't know 🙅🏼‍♂️ 
+- 😄 Pronouns: He/Him 
+- ⚡ Fun fact: ___ 
 
 # 🚀 **Achievement Unlocked: GitHub Foundations Exam Passed!** 🎓
 
 I'm thrilled to announce that I have successfully passed the [**GitHub Foundations Exam**!](https://www.credly.com/badges/ad76b653-1048-4090-bcf6-605bf97148ad/print) 🏆 This milestone demonstrates my proficiency with essential GitHub workflows and best practices.
 
+<!--
 ## What I’ve Achieved:
 
 - **Mastered GitHub Fundamentals**
 - **Enhanced Collaboration Skills**
 - **Improved Code Management Practices**
 
-Feel free to check out my projects and repositories to see the practical applications of these skills!
+-->
 
-<!-- - 💞️ I’m looking to collaborate on ...
-<!-- - 📫 How to reach me ... -->
-<!-- -😄 Pronouns: He/Him -->
-<!-- - ⚡ Fun fact: ___ -->
 
 <br></br>
 
-# My Projects 🚀
 
-Here are some of the projects I have worked on, showcasing my skills across various programming languages and technologies:
+# 🚀 My Project Portfolio
 
-| **Project Name**                          | **Technology**        | **Description**                                                                                   | **Link**                                                                                                                                                                                                 |
-|-------------------------------------------|-----------------------|---------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **My Portfolio** 🖥️                       | HTML, CSS3             | A personal portfolio website showcasing my skills, projects, and experience.                      | [Visit Project](https://sagar-chhabriya.vercel.app/) 🌐                                                                                                                                                    |
-| **Static Blog Site** 📝                    | HTML, CSS3             | A static blog site designed and developed using HTML and CSS.                                       | [Visit Project](https://responsive-blog-three.vercel.app/) 📰                                                                                                                                              |
-| **Cafe Billing App** 🍽️                   | C#                    | A desktop application built using C# for managing café billing and transactions.                   | [LinkedIn Post](https://www.linkedin.com/posts/sagar-chhabriya_cafebilling-softwaredevelopment-csharp-activity-7244411974040604672-dk-X?utm_source=share&utm_medium=member_desktop) 💼                     |
-| **Email Automator** 📧                     | Python                | A Python script that automates email marketing campaigns.                                           | [LinkedIn Post](https://www.linkedin.com/posts/sagar-chhabriya_python-automation-emailmarketing-activity-7187093664467247106-e7xZ?utm_source=share&utm_medium=member_desktop) ✉️                        |
-| **Expense Tracker** 💸                     | Python                | A simple Python application to track and manage personal expenses.                                 | [LinkedIn Post](https://www.linkedin.com/posts/sagar-chhabriya_python-codealpha-expensetracker-activity-7183180948593590273-duvj?utm_source=share&utm_medium=member_desktop) 📊                        |
-| **Jarvis AI** 🤖                           | Python                | A virtual assistant built using Python, designed to help with various tasks.                       | [LinkedIn Post](https://www.linkedin.com/posts/sagar-chhabriya_gratitude-thankyou-techcommunity-activity-7180446935051288577-c2Sw?utm_source=share&utm_medium=member_desktop) 🧠                        |
-| **Currency Converter** 💱                  | Java                  | A Java application that converts currency values based on real-time exchange rates.               | [LinkedIn Post](https://www.linkedin.com/posts/sagar-chhabriya_currencyconverter-softwaredevelopment-codealpha-activity-7120795865622953984-EQMX?utm_source=share&utm_medium=member_desktop) 💰         |
-| **Attendance Management Site** 🏫         | Java                  | A web-based attendance management system developed using Java.                                     | [LinkedIn Post](https://www.linkedin.com/posts/sagar-chhabriya_codealphatriumphs-activity-7124734439116447744-jdnA?utm_source=share&utm_medium=member_desktop) 📅                                         |
-| **Word Counter** 🔢                        | Java                  | A Java program to count the number of words in a given text.                                       | [LinkedIn Post](https://www.linkedin.com/posts/sagar-chhabriya_codealpha-javainternship-progressmade-activity-7114224780936945667-Y97o?utm_source=share&utm_medium=member_desktop) 📝                 |
-| **Health Keeper** 🏥                       | Java                  | A health tracking application created using Java to monitor physical activities and diet.         | [LinkedIn Post](https://www.linkedin.com/posts/sagar-chhabriya_secondsemester-javaprogramming-objectoriented-activity-7095314588090441731-GSjU?utm_source=share&utm_medium=member_desktop) 💪            |
+Here are some of my featured projects showcasing my skills across different technologies:
 
+| Project | Tech Stack | Description | Live Demo |
+|---------|------------|-------------|-----------|
+| **🤖 CallRag** <br> *AI-Powered Chat Assistant* | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=flat&logo=google&logoColor=white) | RAG-powered chatbot using Google Gemini Flash 1.5 with PDF analysis capabilities | [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://callrag.streamlit.app/) |
+| **🌸 IRIS Flower Classifier** | ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) | ML app that predicts Iris flower species with 96% accuracy | [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://irislab.streamlit.app/) |
+| **📈 Up Stock** | ![YFinance](https://img.shields.io/badge/YFinance-00A86B?style=flat) | Real-time stock market tracker with historical data visualization | [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://upstok.streamlit.app/) |
+| **💰 Salary Predictor** | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) | Predicts tech industry salaries based on experience | [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://sal-pred.streamlit.app/) |
+| **🏡 California Housing** | ![NumPy](https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white) | Predicts California home prices using regression models | [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://calihouse.streamlit.app/) |
+
+## 🌐 Web Projects
+
+| Project | Tech Stack | Description | Live Demo |
+|---------|------------|-------------|-----------|
+| **🎨 My Portfolio** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) | Responsive personal portfolio website | [![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)](https://sagar-chhabriya.vercel.app/) |
+| **✍️ Static Blog** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) | Minimalist responsive blog template | [![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)](https://responsive-blog-three.vercel.app/) |
+
+## 💻 Desktop & CLI Apps
+
+| Project | Tech Stack | Description | Source |
+|---------|------------|-------------|--------|
+| **☕ Cafe Billing** | ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white) | Point-of-Sale system for cafes | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/posts/sagar-chhabriya_cafebilling-softwaredevelopment-csharp-activity-7244411974040604672-dk-X) |
+| **📧 Email Automator** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | Bulk email campaign manager | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/posts/sagar-chhabriya_python-automation-emailmarketing-activity-7187093664467247106-e7xZ) |
+
+## 🛠️ Utility Tools
+
+| Project | Tech Stack | Description | Source |
+|---------|------------|-------------|--------|
+| **💵 Currency Converter** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) | Real-time forex conversion tool | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/posts/sagar-chhabriya_currencyconverter-softwaredevelopment-codealpha-activity-7120795865622953984-EQMX) |
+| **🏥 Health Keeper** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) | Fitness & nutrition tracker | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/posts/sagar-chhabriya_secondsemester-javaprogramming-objectoriented-activity-7095314588090441731-GSjU) |
 ## 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sagar-chhabriya/)
