@@ -214,6 +214,17 @@ I'm thrilled to announce that I have successfully passed the [**GitHub Foundatio
 ![](https://count.getloli.com/get/@SagarChhabriya.github.readme)
 </br>
 
+<a href="https://info.flagcounter.com/fCIb" target="_blank">
+  <img src="https://s11.flagcounter.com/count2/fCIb/bg_FFFFFF/txt_000000/border_CCCCCC/columns_3/maxflags_20/viewers_3/labels_1/pageviews_1/flags_1/percent_1/" alt="Flag Counter" border="0"/>
+</a>
+
+<!-- New global flag counter -->
+<a href="https://info.flagcounter.com/more/fC3" target="_blank">
+  <img src="https://s11.flagcounter.com/countxl/fC3/bg_FFFFFF/txt_000000/border_CCCCCC/columns_3/maxflags_12/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"/>
+</a>
+
+
+
 <!--
 <div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=SagarChhabriya&style=for-the-badge&color=orange" alt=""/>
