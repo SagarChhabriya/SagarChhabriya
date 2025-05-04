@@ -82,14 +82,10 @@ Proud to share that I have successfully passed the [**GitHub Foundations Exam**]
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
 ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=plastic&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234EA94B.svg?style=plastic&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-%2307405E.svg?style=plastic&logo=sqlite&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-%23FF4B4B.svg?style=plastic&logoColor=white) |
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=plastic&logo=jupyter&logoColor=white) |
 ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=plastic&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=white)
@@ -123,6 +119,8 @@ Proud to share that I have successfully passed the [**GitHub Foundations Exam**]
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FF4F75?style=plastic&logo=huggingface&logoColor=white)
 ![Faiss](https://img.shields.io/badge/Faiss-1C3C3C?style=plastic&logo=faiss&logoColor=white)
 ![Chroma](https://img.shields.io/badge/Chroma-FF6F00?style=plastic&logo=chroma&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-FF6F00?style=plastic&logo=llamaindex&logoColor=white)
+![GoogleGenai](https://img.shields.io/badge/GoogleGenAI-4285F4?style=plastic&logo=google&logoColor=white)
 
 
 ### Exploring
