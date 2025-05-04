@@ -80,80 +80,74 @@ I'm thrilled to announce that I have successfully passed the [**GitHub Foundatio
 -->
 
 # 💻 My Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=plastic&logo=oracle&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=plastic&logo=mysql&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=plastic&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=tensorflow&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=plastic&logo=flask&logoColor=white)
+![PyPDF2](https://img.shields.io/badge/PyPDF2-%23FFD43B.svg?style=plastic&logoColor=white)
+![Beautiful Soup](https://img.shields.io/badge/Beautiful%20Soup-%234EAA25.svg?style=plastic&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234EA94B.svg?style=plastic&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-%2307405E.svg?style=plastic&logo=sqlite&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-%23FF4B4B.svg?style=plastic&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-%2343B02A.svg?style=plastic&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23F37626.svg?style=plastic&logo=matplotlib&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white)
+![Tkinter](https://img.shields.io/badge/Tkinter-%2345B8D8.svg?style=plastic&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-%23FF6F00.svg?style=plastic&logo=opencv&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-%2307405E.svg?style=plastic&logoColor=white)
 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![PyPDF2](https://img.shields.io/badge/PyPDF2-%23FFD43B.svg?style=for-the-badge&logoColor=white)
-![Beautiful Soup](https://img.shields.io/badge/Beautiful%20Soup-%234EAA25.svg?style=for-the-badge&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234EA94B.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-%2307405E.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-%23FF4B4B.svg?style=for-the-badge&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-%2343B02A.svg?style=for-the-badge&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23F37626.svg?style=for-the-badge&logo=matplotlib&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-![Tkinter](https://img.shields.io/badge/Tkinter-%2345B8D8.svg?style=for-the-badge&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-%23FF6F00.svg?style=for-the-badge&logo=opencv&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-%2307405E.svg?style=for-the-badge&logoColor=white)
+
+![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=plastic&logo=jupyter&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=plastic&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=plastic&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-%2307405E.svg?style=plastic&logo=sqlite&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23F37626.svg?style=plastic&logo=matplotlib&logoColor=white)
+
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=pytorch&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-%2343B02A.svg?style=plastic&logo=selenium&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=plastic&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-%23FF6F00.svg?style=plastic&logo=opencv&logoColor=white)
+![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=plastic&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=plastic&logo=flask&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-%23000000.svg?style=plastic&logo=json&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-%23880000.svg?style=plastic&logo=mongoose&logoColor=white)
+
+![YAML](https://img.shields.io/badge/YAML-%23CB171E.svg?style=plastic&logo=yaml&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=plastic&logo=streamlit&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-%23D71A00.svg?style=plastic&logo=sqlalchemy&logoColor=white)
+
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=plastic&logo=node.js&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-%230A9EDC.svg?style=plastic&logo=pytest&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=plastic&logo=postman&logoColor=white)
 
 
-### Languages:
+![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=plastic&logo=git&logoColor=white)
+![GitBook](https://img.shields.io/badge/GitBook-%23719AFC.svg?style=plastic&logo=gitbook&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=plastic&logo=githubactions&logoColor=white)
+![GitHub Codespaces](https://img.shields.io/badge/GitHub%20Codespaces-%23000000.svg?style=plastic&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-%23FC6D26.svg?style=plastic&logo=gitlab&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-%230047B3.svg?style=plastic&logo=bitbucket&logoColor=white)
 
-| Python3                                                                                         | JS                                                                                               | Java                                                                                   | HTML5                                                                                       | CSS3                                                                                   | C#                                                                                             | SQL                                                                                             |
-| ------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------ |
-| <img src="icons/python-original.svg" title="Python"  alt="Python" width="55" height="55"/>        | <img src="icons/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> | <img src="icons/java-original.svg" title="Java" alt="Java" width="55" height="55"/>       | <img src="icons/html5-original.svg" title="HTML5" alt="HTML5" width="55" height="55"/>         | <img src="icons/css3-original.svg" title="CSS3" alt="CSS3" width="55" height="55"/>       | <img src="icons/csharp-original.svg" title="C#" alt="C#" width="55" height="55"/>                  | <img src="icons/sql-original.svg" title="SQL" alt="SQL" width="55" height="55"/>                   |
 
-### My tools for Data Manipulation & Visualisation:
-
-| Conda                                                                                             | Jupyter                                                                                           | MySQL                                                                                           | Postgres                                                                                   | SQLite                                                                                             | Plotly                                                                                   | Matplotlib                                                                                   |
-| ------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------- |
-| <img src="icons/anaconda-original-wordmark.svg" title="Anaconda" alt="Conda" width="55" height="55"/> | <img src="icons/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="55" height="55"/> | <img src="icons/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="55" height="55"/>  | <img src="icons/postgresql-original.svg" title="pg" alt="pg" width="55" height="55"/>          | <img src="icons/sqlite-original-wordmark.svg" title="SQLite" alt="SQLite" width="55" height="55"/> | <img src="icons/plotly-original.svg" title="Plotly" alt="Plotly" width="55" height="55"/>       | <img src="icons/matplotlib-original.svg" title="Matplotlib" alt="Matplotlib" width="55" height="55"/> |
-
-### My frameworks and main libraries for Python3:
-
-| Pytorch                                                                                         | Selenium                                                                                          | Numpy                                                                                           | Pandas                                                                                       | Sklearn                                                                                         | OpenCV                                                                                         | Django                                                                                         | Flask                                                                                          | JSON                                                                                            | Mongoose                                                                                         |
-| ------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------ |
-| <img src="icons/pytorch-original.svg" title="Pytorch" alt="Pytorch" width="55" height="55"/>       | <img src="icons/selenium-original.svg" title="Selenium" alt="Selenium" width="55" height="55"/>     | <img src="icons/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="55" height="55"/>  | <img src="icons/pandas-original.svg" title="Pandas" alt="Pandas" width="55" height="55"/>        | <img src="icons/scikitlearn-original.svg" title="Sklearn" alt="Sklearn" width="55" height="55"/>   | <img src="icons/opencv-original.svg" title="OpenCV" alt="OpenCV" width="55" height="55"/>        | <img src="icons/django-plain.svg" title="Django" alt="Django" width="55" height="55"/>            | <img src="icons/flask-original.svg" title="Flask" alt="Flask" width="55" height="55"/>             | <img src="icons/json-original.svg" title="JSON" alt="JSON" width="55" height="55"/>              | <img src="icons/mongoose-original.svg" title="Mongoose" alt="Mongoose" width="55" height="55"/>   |
-
-<br><br>
-
-| Yaml                                                                                           | Streamlit                                                                                       | SqlAlchemy                                                                                       |
-| ------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------ |
-| <img src="icons/yaml-original.svg" title="YAML" alt="YAML" width="55" height="55"/>              | <img src="icons/streamlit-original.svg" title="Streamlit" alt="Streamlit" width="55" height="55"/> | <img src="icons/sqlalchemy-original.svg" title="SQLAlchemy" alt="SQLAlchemy" width="55" height="55"/>  |
-
-<br><br>
-
-### Environments, Testing, Containerization and Others:
-
-| NodeJS                                                                                          | Docker                                                                                           | Pytest                                                                                           | Postman                                                                                         |
-| ------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------ |
-| <img src="icons/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="55" height="55"/> | <img src="icons/docker-original-wordmark.svg" title="Docker" alt="Docker" width="55" height="55"/> | <img src="icons/pytest-original-wordmark.svg" title="Pytest" alt="Pytest" width="55" height="55"/> | <img src="icons/postman-original-wordmark.svg" title="Postman" alt="Postman" width="55" height="55"/> |
-
-<br><br>
-
-### Versioning, CI/CD and Project Management:
-
-| Git                                                                                               | GitBook                                                                                             | GitHub Actions                                                                                             | GitHub Codespaces                                                                                             | GitLab                                                                                             | BitBucket                                                                                         |
-| ------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
-| <img src="icons/git-original-wordmark.svg" title="Git" alt="Git" width="55" height="55"/>           | <img src="icons/gitbook-original.svg" title="GitBook" alt="GitBook" width="55" height="55"/>         | <img src="icons/githubactions-original.svg" title="GitHub Actions" alt="GitHub Actions" width="55" height="55"/>  | <img src="icons/githubcodespaces-original.svg" title="GitHub Codespaces" alt="GitHub Codespaces" width="55" height="55"/> | <img src="icons/gitlab-original.svg" title="GitLab" alt="GitLab" width="55" height="55"/>           | <img src="icons/bitbucket-original.svg" title="BitBucket" alt="BitBucket" width="55" height="55"/> |
-
-### OS:
-
-| Linux                                                                                               | Ubuntu                                                                                               | Kali                                                                                                | Windows                                                                                             |
-| --------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
-| <img src="icons/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/>               | <img src="icons/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="55" height="55"/>             | <img src="icons/kalilinux-original-wordmark.svg" title="Kali Linux" alt="Kali Linux" width="55" height="55"/> | <img src="icons/windows11-original-wordmark.svg" title="Windows" alt="Windows" width="55" height="55"/> |
-
+![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=plastic&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-%23E95420.svg?style=plastic&logo=ubuntu&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-%2300ADEE.svg?style=plastic&logo=kalilinux&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-%230078D6.svg?style=plastic&logo=windows&logoColor=white)
 
 <!---
 ### It's not technology, but I use it. The section will be changed soon.:
