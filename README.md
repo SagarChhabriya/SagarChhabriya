@@ -31,6 +31,7 @@ Proud to share that I have successfully passed the [**GitHub Foundations Exam**]
 
 <br></br>
 
+<!--
 ## My Project Portfolio
 
 ### 🤖 AI & Machine Learning
@@ -62,6 +63,7 @@ Proud to share that I have successfully passed the [**GitHub Foundations Exam**]
 | **Word Counter** | ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white) | Text analysis tool | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/posts/sagar-chhabriya_codealpha-javainternship-progressmade-activity-7114224780936945667-Y97o) |
 | **Health Keeper** | ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white) | Fitness tracking app | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/posts/sagar-chhabriya_secondsemester-javaprogramming-objectoriented-activity-7095314588090441731-GSjU) |
 
+-->
 
 <!--
 ## 🌐 Socials:
@@ -123,6 +125,7 @@ Proud to share that I have successfully passed the [**GitHub Foundations Exam**]
 ![GoogleGenai](https://img.shields.io/badge/GoogleGenAI-4285F4?style=plastic&logo=google&logoColor=white)
 
 
+<!--
 ### Exploring
 
 ![Gradio](https://img.shields.io/badge/Gradio-3E8E41?style=plastic&logo=gradio&logoColor=white)
@@ -155,7 +158,8 @@ Proud to share that I have successfully passed the [**GitHub Foundations Exam**]
 ![Autonomous HR Chatbot](https://img.shields.io/badge/Autonomous%20HR%20Chatbot-FF6F00?style=plastic&logo=autonomoushrchatbot&logoColor=white)
 ![BlockAGI](https://img.shields.io/badge/BlockAGI-FF6F00?style=plastic&logo=blockagi&logoColor=white)
 ![Modal](https://img.shields.io/badge/Modal-FF6F00?style=plastic&logo=modal&logoColor=white)
- 
+
+ --!>
 
 
 <!-- ![OpenCV](https://img.shields.io/badge/OpenCV-%23FF6F00.svg?style=plastic&logo=opencv&logoColor=white) -->
