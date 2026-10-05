@@ -7,7 +7,7 @@
 # ✨ About Me: 
 - 👋 Yo, I’m @SagarChhabriya
 - 👀 I’m interested in Machine Learning, AI, Data Science, Data Structures and Python.
-- 🌱 I’m currently learning GenAI and AgenticAI.
+- 🌱 I’m currently mastering GenAI and AgenticAI.
 - 💞️ Let’s build something epic in AI!
 - 📫 How to reach me? Good question!
 - 😄 Pronouns: He/Him  
